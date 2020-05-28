@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\fatim\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\fatim\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial-2_POO.885832434.00" t="ExcludeRecursive" />
+    <e p="C:\Users\fatim\Documents\FF\C#\Parcial-2_POO" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Parcial-2_POO" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Log-in" t="Include">
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="Form1.resx" t="Include" />
+          <e p="Login.cs" t="Include" />
+          <e p="Login.Designer.cs" t="Include" />
+          <e p="Login.resx" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Parcial-2_POO.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="ConectionBD.cs" t="Include" />
+          <e p="Welcome.cs" t="Include" />
+          <e p="Welcome.Designer.cs" t="Include" />
+          <e p="Welcome.resx" t="Include" />
+        </e>
+        <e p="Users" t="Include">
+          <e p="AdminForm.cs" t="Include" />
+          <e p="AdminForm.Designer.cs" t="Include" />
+          <e p="AdminForm.resx" t="Include" />
+          <e p="Direccion.cs" t="Include" />
+          <e p="Direccion.Designer.cs" t="Include" />
+          <e p="Direccion.resx" t="Include" />
+          <e p="Negocios.cs" t="Include" />
+          <e p="Negocios.Designer.cs" t="Include" />
+          <e p="Negocios.resx" t="Include" />
+          <e p="NormalForm.cs" t="Include" />
+          <e p="NormalForm.Designer.cs" t="Include" />
+          <e p="NormalForm.resx" t="Include" />
+          <e p="Ordenes.cs" t="Include" />
+          <e p="Ordenes.Designer.cs" t="Include" />
+          <e p="Ordenes.resx" t="Include" />
+          <e p="OrdenNormal.cs" t="Include" />
+          <e p="OrdenNormal.Designer.cs" t="Include" />
+          <e p="OrdenNormal.resx" t="Include" />
+          <e p="PasswordChange.cs" t="Include" />
+          <e p="PasswordChange.Designer.cs" t="Include" />
+          <e p="PasswordChange.resx" t="Include" />
+          <e p="Products.cs" t="Include" />
+          <e p="Products.Designer.cs" t="Include" />
+          <e p="Products.resx" t="Include" />
+          <e p="Usuarios.cs" t="Include" />
+          <e p="Usuarios.Designer.cs" t="Include" />
+          <e p="Usuarios.resx" t="Include" />
+        </e>
+      </e>
+      <e p="Parcial-2_POO.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
